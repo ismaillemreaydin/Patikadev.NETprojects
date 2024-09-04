@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CircleDrawingApp\bin\Debug\net8.0\CircleDrawingApp.exe
+C:\Users\admin\Desktop\CircleDrawingApp\bin\Debug\net8.0\CircleDrawingApp.deps.json
+C:\Users\admin\Desktop\CircleDrawingApp\bin\Debug\net8.0\CircleDrawingApp.runtimeconfig.json
+C:\Users\admin\Desktop\CircleDrawingApp\bin\Debug\net8.0\CircleDrawingApp.dll
+C:\Users\admin\Desktop\CircleDrawingApp\bin\Debug\net8.0\CircleDrawingApp.pdb
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.dll
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\refint\CircleDrawingApp.dll
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.pdb
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\CircleDrawingApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\CircleDrawingApp\obj\Debug\net8.0\ref\CircleDrawingApp.dll
