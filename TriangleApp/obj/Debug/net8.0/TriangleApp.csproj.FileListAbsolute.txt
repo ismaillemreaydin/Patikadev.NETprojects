@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TriangleApp\bin\Debug\net8.0\TriangleApp.exe
+C:\Users\admin\Desktop\TriangleApp\bin\Debug\net8.0\TriangleApp.deps.json
+C:\Users\admin\Desktop\TriangleApp\bin\Debug\net8.0\TriangleApp.runtimeconfig.json
+C:\Users\admin\Desktop\TriangleApp\bin\Debug\net8.0\TriangleApp.dll
+C:\Users\admin\Desktop\TriangleApp\bin\Debug\net8.0\TriangleApp.pdb
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.dll
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\refint\TriangleApp.dll
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.pdb
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\TriangleApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\TriangleApp\obj\Debug\net8.0\ref\TriangleApp.dll
