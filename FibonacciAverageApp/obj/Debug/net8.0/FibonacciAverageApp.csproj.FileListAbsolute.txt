@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\FibonacciAverageApp\bin\Debug\net8.0\FibonacciAverageApp.exe
+C:\Users\admin\Desktop\FibonacciAverageApp\bin\Debug\net8.0\FibonacciAverageApp.deps.json
+C:\Users\admin\Desktop\FibonacciAverageApp\bin\Debug\net8.0\FibonacciAverageApp.runtimeconfig.json
+C:\Users\admin\Desktop\FibonacciAverageApp\bin\Debug\net8.0\FibonacciAverageApp.dll
+C:\Users\admin\Desktop\FibonacciAverageApp\bin\Debug\net8.0\FibonacciAverageApp.pdb
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.dll
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\refint\FibonacciAverageApp.dll
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.pdb
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\FibonacciAverageApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\FibonacciAverageApp\obj\Debug\net8.0\ref\FibonacciAverageApp.dll
