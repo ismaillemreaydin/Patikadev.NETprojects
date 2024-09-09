@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\GeometricShapesApp\bin\Debug\net8.0\GeometricShapesApp.exe
+C:\Users\admin\Desktop\GeometricShapesApp\bin\Debug\net8.0\GeometricShapesApp.deps.json
+C:\Users\admin\Desktop\GeometricShapesApp\bin\Debug\net8.0\GeometricShapesApp.runtimeconfig.json
+C:\Users\admin\Desktop\GeometricShapesApp\bin\Debug\net8.0\GeometricShapesApp.dll
+C:\Users\admin\Desktop\GeometricShapesApp\bin\Debug\net8.0\GeometricShapesApp.pdb
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.dll
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\refint\GeometricShapesApp.dll
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.pdb
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\GeometricShapesApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\GeometricShapesApp\obj\Debug\net8.0\ref\GeometricShapesApp.dll
