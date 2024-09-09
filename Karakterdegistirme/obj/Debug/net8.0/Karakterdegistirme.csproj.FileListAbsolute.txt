@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Karakterdegistirme\bin\Debug\net8.0\Karakterdegistirme.exe
+C:\Users\admin\Desktop\Karakterdegistirme\bin\Debug\net8.0\Karakterdegistirme.deps.json
+C:\Users\admin\Desktop\Karakterdegistirme\bin\Debug\net8.0\Karakterdegistirme.runtimeconfig.json
+C:\Users\admin\Desktop\Karakterdegistirme\bin\Debug\net8.0\Karakterdegistirme.dll
+C:\Users\admin\Desktop\Karakterdegistirme\bin\Debug\net8.0\Karakterdegistirme.pdb
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.AssemblyInfo.cs
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.dll
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\refint\Karakterdegistirme.dll
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.pdb
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\Karakterdegistirme.genruntimeconfig.cache
+C:\Users\admin\Desktop\Karakterdegistirme\obj\Debug\net8.0\ref\Karakterdegistirme.dll
