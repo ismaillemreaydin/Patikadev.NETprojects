@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VotingAppWinForms\bin\Debug\net8.0-windows\VotingAppWinForms.exe
+C:\Users\admin\Desktop\VotingAppWinForms\bin\Debug\net8.0-windows\VotingAppWinForms.deps.json
+C:\Users\admin\Desktop\VotingAppWinForms\bin\Debug\net8.0-windows\VotingAppWinForms.runtimeconfig.json
+C:\Users\admin\Desktop\VotingAppWinForms\bin\Debug\net8.0-windows\VotingAppWinForms.dll
+C:\Users\admin\Desktop\VotingAppWinForms\bin\Debug\net8.0-windows\VotingAppWinForms.pdb
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.AssemblyInfo.cs
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.dll
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\refint\VotingAppWinForms.dll
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.pdb
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\VotingAppWinForms.genruntimeconfig.cache
+C:\Users\admin\Desktop\VotingAppWinForms\obj\Debug\net8.0-windows\ref\VotingAppWinForms.dll
